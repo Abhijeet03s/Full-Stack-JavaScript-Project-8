@@ -10,7 +10,7 @@
 
 # Live Project 8 : Web Design Landing Page
 
-## Project 8: [Live Link]()
+## Project 8: [Live Link](https://live-project-8-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     - Learned to use linear gradients on button.
