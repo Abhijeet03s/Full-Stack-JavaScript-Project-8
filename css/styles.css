@@ -134,7 +134,7 @@ nav .btn {
     display: inline-block;
   }
   .imgs-div img:nth-child(3) {
-    height: 65vh;
+    height: 50vh;
   }
   .intro-section {
     padding-top: 120px;
@@ -147,7 +147,7 @@ nav .btn {
     display: none;
   }
 }
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 480px) {
   body {
     background: none;
   }
