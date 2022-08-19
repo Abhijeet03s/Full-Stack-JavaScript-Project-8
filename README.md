@@ -1,3 +1,4 @@
+# Full Stack Javascript Bootcamp Assignment 
 
 ![iNeuron, LCO](https://img.shields.io/badge/iNeuron-LCO-green)
 ![Hitesh Choudhary](https://img.shields.io/badge/Hitesh--Choudhary-Full--stack--JS--bootcamp-red)
@@ -10,17 +11,18 @@
 
 # Live Project 8 : Web Design Landing Page
 
-## Project 8: [Live Link](https://live-project-8-fs-js.netlify.app/)
+## Project 8: (Mobile Responsive)
+[Live Link](https://live-project-8-fs-js.netlify.app/)
 
 -   Skills Gained in this project.
     - Learned to use linear gradients on button.
     - Learned how we can center any images as background by using background-position & repeat.
-    
+       
 ---
 
-## Time taken to finish this project⏲
+## Time taken to finish this project(including adding media queries)⏲
 
-- > 6 hours are needed to finish.
+- > 7 hours are needed to finish.
 
 #### Screenshot
 
